@@ -1,4 +1,4 @@
-baseURL = 'https://roneo.itcouldbewor.se/'
+baseURL = 'https://remix-anderswie.netlify.app/'
 languageCode = 'en-us'
 defaultContentLanguage = 'en'
 
@@ -10,7 +10,7 @@ defaultContentLanguage = 'en'
 
 # Languages
 [Languages.en]
-languageName = "En"
+languageName = "en"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
